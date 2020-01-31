@@ -1,6 +1,6 @@
 # Éire Health Service Locator
 
-[![Widoco](https://img.shields.io/badge/documentation%20Widoco-orange)](https://www.scss.tcd.ie/~kamblea/ontologies/2019/10/ireland-health-service-locator/1.0.0/myDocumentation/index-en.html)
+[![WIDOCO](https://img.shields.io/badge/documentation-on%20WIDOCO-orange)](https://www.scss.tcd.ie/~kamblea/ontologies/2019/10/ireland-health-service-locator/1.0.0/myDocumentation/index-en.html)
 
 Links of open dataset used:
 
